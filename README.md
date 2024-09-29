@@ -16,3 +16,6 @@
 - git config --global user.email "buithanhtu2506@gmail.com"
 - git remote add origin https://github.com/Fiubsut/Capp_social.git
 - git push -u origin master
+
+- tsc --init
+- Reference: https://www.typescriptlang.org/tsconfig/
